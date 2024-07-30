@@ -1,0 +1,52 @@
+{
+  "site": {
+    "title": "shoppingmakequick",
+    "base_url": "https://shoppingmakequick.myshopify.com/",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_darkmode": "/images/logo-darkmode.png",
+    "logo_width": "150",
+    "logo_height": "27",
+    "logo_text": "shoppingmakequick"
+  },
+
+  "settings": {
+    "search": true,
+    "account": true,
+    "sticky_header": true,
+    "theme_switcher": true,
+    "default_theme": "system",
+    "pagination_card": 9,
+    "pagination_list": 4,
+    "summary_length": 200,
+    "blog_folder": "blog"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "shoppingmakequick.myshopify.com"
+  },
+
+  "navigation_button": {
+    "enable": false,
+    "label": "Get Started",
+    "link": "https://shoppingmakequick.myshopify.com/"
+  },
+
+  "metadata": {
+    "meta_author": "GowthamCK shop",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Shopify Storefront"
+  },
+
+  "shopify": {
+    "currencySymbol": "₹",
+    "currencyCode": "BDT",
+    "collections": {
+      "hero_slider": "hidden-homepage-carousel",
+      "featured_products": "featured-products"
+    }
+  }
+}
